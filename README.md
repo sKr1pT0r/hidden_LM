@@ -11,4 +11,4 @@
  3. Compile start.py.
  4. Create VBS script for hidden start a compiled start.py 
  5. Create an SFX archive with automatic start for VBS script
- 6. All is ready!
+ 6. All is ready! (Password: roooooot)
